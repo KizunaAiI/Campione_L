@@ -1,0 +1,54 @@
+2018-04-27T00:48:13.305Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T00:48:13.315Z - normal: checking language setting...
+2018-04-27T00:48:13.315Z - normal: Language: zh
+2018-04-27T00:48:16.487Z - success: protocol editor-framework registered
+2018-04-27T00:48:16.487Z - success: protocol app registered
+2018-04-27T00:48:16.487Z - success: protocol theme registered
+2018-04-27T00:48:16.487Z - success: protocol packages registered
+2018-04-27T00:48:16.487Z - success: protocol unpack registerred
+2018-04-27T00:48:16.487Z - success: protocol disable-commonjs registerred
+2018-04-27T00:48:16.830Z - normal: connected!
+2018-04-27T00:48:16.836Z - normal: Check project C:\Users\Administrator\Desktop\GAME\star\start_project
+2018-04-27T00:48:16.855Z - normal: Initializing Cocos2d
+2018-04-27T00:48:17.920Z - normal: Initializing Asset Database
+2018-04-27T00:48:17.979Z - success: protocol uuid registerred
+2018-04-27T00:48:17.979Z - success: protocol db registerred
+2018-04-27T00:48:17.980Z - success: protocol thumbnail registerred
+2018-04-27T00:48:17.980Z - normal: Loading editor/builtin packages
+2018-04-27T00:48:18.058Z - success: anysdk loaded
+2018-04-27T00:48:18.237Z - success: assets loaded
+2018-04-27T00:48:18.239Z - success: builder loaded
+2018-04-27T00:48:18.241Z - success: cocos-analytics loaded
+2018-04-27T00:48:18.243Z - success: console loaded
+2018-04-27T00:48:18.276Z - success: fb-instant-games loaded
+2018-04-27T00:48:18.279Z - success: hierarchy loaded
+2018-04-27T00:48:18.282Z - success: inspector loaded
+2018-04-27T00:48:18.283Z - success: keystore loaded
+2018-04-27T00:48:18.285Z - success: node-library loaded
+2018-04-27T00:48:18.287Z - success: package-asset loaded
+2018-04-27T00:48:18.289Z - success: preferences loaded
+2018-04-27T00:48:18.291Z - success: project-exporter loaded
+2018-04-27T00:48:18.304Z - success: project-importer loaded
+2018-04-27T00:48:18.305Z - success: project-settings loaded
+2018-04-27T00:48:18.307Z - success: ui-kit loaded
+2018-04-27T00:48:18.312Z - success: ui-grid loaded
+2018-04-27T00:48:18.315Z - success: scene loaded
+2018-04-27T00:48:18.316Z - success: sprite-editor loaded
+2018-04-27T00:48:18.319Z - success: store loaded
+2018-04-27T00:48:18.325Z - success: timeline loaded
+2018-04-27T00:48:18.325Z - normal: Loading builtin packages
+2018-04-27T00:48:18.333Z - success: asset-db-debugger loaded
+2018-04-27T00:48:18.334Z - success: code-editor loaded
+2018-04-27T00:48:18.344Z - success: color-picker loaded
+2018-04-27T00:48:18.347Z - success: package-manager loaded
+2018-04-27T00:48:18.357Z - success: sdkbox loaded
+2018-04-27T00:48:18.359Z - success: tester loaded
+2018-04-27T00:48:18.361Z - success: ui-kit-preview-extra loaded
+2018-04-27T00:48:18.362Z - success: ui-kit-preview loaded
+2018-04-27T00:48:18.364Z - success: ui-tree loaded
+2018-04-27T00:48:19.787Z - normal: Initializing project C:\Users\Administrator\Desktop\GAME\star\start_project
+2018-04-27T00:48:19.789Z - normal: Loading packages
+2018-04-27T00:48:19.794Z - normal: Watching packages
+2018-04-27T00:48:19.819Z - normal: Run Application
+2018-04-27T00:48:22.262Z - success: preview server running at http://localhost:7456
+2018-04-27T00:48:28.857Z - normal: 1.9.0
